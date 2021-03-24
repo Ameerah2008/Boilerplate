@@ -1,2 +1,2 @@
-# Boilerplate
-We have done a demo project which we have built a sprite.
+# p5.play-boilerplate
+Boiler plate for p5.play
